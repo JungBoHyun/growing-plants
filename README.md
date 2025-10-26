@@ -16,7 +16,7 @@ Python과 Tkinter 라이브러리를 활용하여 만든 간단한 2D 게임이�
 
 * **Language:** Python
 * **Library:** Tkinter (Python 내장 GUI 라이브러리)
-* **Tools:** [사용한 IDE 이름 (예: VS Code, PyCharm 등)]
+* **Tools:** VS Code
 
 <br>
 
@@ -56,7 +56,7 @@ Python과 Tkinter 라이브러리를 활용하여 만든 간단한 2D 게임이�
 ### 3. 발표 (Presentation)
 
 * 프로젝트의 최종 결과물을 PPT로 제작하고, 팀을 대표하여 **발표**를 진행했습니다.
-* 
+
 <br>
 
 ## ✨ 주요 기능
